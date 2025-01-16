@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-01-15T17:17:57">
+  <properties>
+    <titles>
+      <title>Sobre Todo</title>
+    </titles>
+    <authors>
+      <author>Paul Baloche &amp; Lenny Leblanc</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sobre todo  Poder y Rey<br/>Sobre toda la humanidad y ley<br/>Sobre todo  lo creado por tu mano<br/>Pues todo lo creaste mi Señor</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sobre todo  reino y nación<br/>Y maravillas que el mundo conoció<br/>Sobre toda riqueza y esplendor<br/>Nada se compara a tí mi Dios</lines>
+    </verse>
+    <verse name="c1">
+      <lines>CORO<br/>Fuiste a la cruz, y a la tumba por mí<br/>Viviste para en soledad morir<br/>Como una flor, que alguien pisoteó<br/>Y sobre todo pensaste en mí, por amor</lines>
+    </verse>
+  </lyrics>
+</song>
